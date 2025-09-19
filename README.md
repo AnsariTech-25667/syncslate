@@ -116,8 +116,3 @@ I’m **Maaz Ansari**, a full-stack developer who thrives on building tools that
 * LinkedIn: [linkedin.com/in/maaz-ansari-06193a231](https://www.linkedin.com/in/maaz-ansari-06193a231)
 * Phone: +91-9511670380
 
-
-## Status
-![CI](https://github.com/AnsariTech-25667/syncslate/actions/workflows/ci.yml/badge.svg)
-
-
